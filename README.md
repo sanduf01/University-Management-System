@@ -91,9 +91,7 @@ University-Management-System/
 ```
 
 ## 📸 Screenshots
-```
 ![Demo](screenshots/demo.png)
-```
 
 ## 📄 License
 This project is for educational purposes - feel free to use/modify.
